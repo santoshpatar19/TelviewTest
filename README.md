@@ -1,4 +1,3 @@
-# SocialEarth
 
-Using MVVM DataBinding LiveData And RxJava
+ MVVM DataBinding LiveData And RxJava
 "# Telview" 
